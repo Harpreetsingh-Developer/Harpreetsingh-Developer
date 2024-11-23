@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Harpreet+Singh;I'm+Software+Developer;I'm+Ai+Developer;I'm+Mern+Developer;></p>
-<h3 align="center">SDE-Intern @ Swiggy (PAYMENTS) | CSE Core, Final Year, Batch of 2025 | Lead at Google DSC'2023-24 | Ex-SDE Intern @ Cognizant | Ex-Technical Writer Intern @ CodingNinjas | IEEE Student Branch Secretary </h3>
+<h3 align="center">AI Intern @MyMobiForce | CSE (Ai-Ds), Pre-Final Year, Batch of 2026 | Co-founder @Upcomingfest | Building ClothBuddy </h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
