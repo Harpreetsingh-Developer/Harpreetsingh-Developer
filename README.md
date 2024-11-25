@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
 - 🔭 I am working on: **MymobiForce**.
--  Mentor at GirlScript Summer Of Code, 2024!
 
 - 🌱 I am learning: **AI/ML**
 
@@ -26,8 +25,8 @@ const Harpreet_Singh= {
   code: ["C++", "Python","Javascript", "HTML", "CSS", "MySQL"],
   askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "Figma"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Google Cloud", "AIML", "Databases"],
+      frontend: ["HTML", "tailwind CSS", "JS", "Bootstrap"],
+      backend: ["Google Cloud", "AIML", "Databases", "Firebase"],
   }
 }
 ```
@@ -235,4 +234,4 @@ const Harpreet_Singh= {
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
 
-<p><a href="https://www.buymeacoffee.com/Harpreet Singh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="juhipathak" /></a><a href="https://ko-fi.com/juhipathak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="Harpreet Singh" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Harpreet Singh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="Harpreet Singh" /></a><a href="https://ko-fi.com/juhipathak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="Harpreet Singh" /></a></p><br><br>
