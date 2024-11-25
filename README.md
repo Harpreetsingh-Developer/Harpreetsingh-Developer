@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="HarpreetSingh" width="150"/> </p>
 
-- 🔭 I am working on: **MymobiForce**.
+- 🔭 I am working on: **MymobiForce**, as an Data Anyltics and Integration of Ai modules to thier app!
 
 - 🌱 I am learning: **AI/ML**
 
-- 💬 Ask me about: **Full Stack Development, Graphic Design, Literature & Poetry**
+- 💬 Ask me about: **Full Stack Development, Graphic Design, Ml Enginner**
 
 - 📫 Reach out at: **workspace.harpreetsingh@gmail.com**
 
