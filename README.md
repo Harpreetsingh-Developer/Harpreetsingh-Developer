@@ -6,16 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-- 🔭 I am working on: **EcoParali**, sponsored by Government of India, National Winner at Hackfest 2024 by SAP at PSGiTech, Coimbatore, & Patented by Government of India on 5th July, 2024. Designed SAATHI-Philatelist Platform!
+- 🔭 I am working on: **MymobiForce**.
 -  Mentor at GirlScript Summer Of Code, 2024!
 
-- 🌱 I am learning: **AI/ML, Cloud Computing**
-
-- 📝 I write articles here: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
+- 🌱 I am learning: **AI/ML**
 
 - 💬 Ask me about: **Full Stack Development, Graphic Design, Literature & Poetry**
 
-- 📫 Reach out at: **pathakkakul@gmail.com**
+- 📫 Reach out at: **workspace.harpreetsingh@gmail.com**
 
 - ⚡ Fun fact: **I am a Harry Potter fan! Expecto Patronum ⚡!!**
 
@@ -23,10 +21,10 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A wee bit about Myself :)</b>
 
 ```javascript
-const Juhi_Pathak= {
-  pronouns: "She" | "Her",
-  code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS", "MySQL"],
-  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP", "Figma"],
+const Harpreet_Singh= {
+  pronouns: "He" | "Him",
+  code: ["C++", "Python","Javascript", "HTML", "CSS", "MySQL"],
+  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "Figma"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
       backend: ["Google Cloud", "AIML", "Databases"],
@@ -44,9 +42,9 @@ const Juhi_Pathak= {
 <!-- START_SECTION:blog -->
 | Qualification | Studied At | Institute | Affiliated By | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | Nov 2021-Present | 8.95 CGPA |
-| Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | GRM School, Bareilly | CBSE | 2020-2021 | 98.4 % |
-| Highschool | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/b2f4eb6c-dfdb-4b39-bfaf-67cb83a6a774" width="40" height="30"> | GRM School, Bareilly | CBSE | 2018-2019 | 98.2 % |
+| B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | April 2022-Present | 7.95 CGPA |
+| Intermediate | <img src="#" width="40" height="30"> | The jain International School | CBSE | 2021-2022 | 76.4 % |
+| Highschool | <img src="#" width="40" height="30"> | Escorts World School | CBSE | 2019-2020 | 86.2 % |
 <!-- END_SECTION:blog -->
 </td>
 </tr>
@@ -57,12 +55,8 @@ const Juhi_Pathak= {
 <br>
 
 <p align="left"> 
-  <a href="https://leetcode.com/u/pathakjuhi/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/juhi_pathak" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/pathakkakul" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/juhipathak" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@pathakkakul" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/juhipathak" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Harpreet_Developer/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/cry_frogs_37" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 -------------------
@@ -80,10 +74,6 @@ const Juhi_Pathak= {
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
-  </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
@@ -92,13 +82,6 @@ const Juhi_Pathak= {
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
 
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
-  </a>
 </p>
 
 ### 📋 Frontend Development
@@ -140,23 +123,6 @@ const Juhi_Pathak= {
 
 ### ♾️ DevOps
 
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
-  
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
-  
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
-
- <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
- 
  <a href="https://about.gitlab.com/" target="_blank"> 
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
   </a>
@@ -179,15 +145,7 @@ const Juhi_Pathak= {
   
    <a href="https://www.sqlite.org/" target="_blank"> 
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
-  </a>   
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
-  </a> 
-  
- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>
-
+ 
  <a href="https://firebase.google.com/" target="_blank"> 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
   </a>
@@ -195,15 +153,6 @@ const Juhi_Pathak= {
 </p>
 
 ### 🎛️ Operating Systems
-
-<p align="left"> 
-  <a href="https://www.centos.org/" target="_blank"> 
-   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
-  </a>   
-  
-  <a href="https://www.debian.org/" target="_blank">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
-  </a> 
   
  <a href="https://www.kali.org/" target="_blank"> 
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
@@ -232,31 +181,11 @@ const Juhi_Pathak= {
   <a href="https://developer.android.com/studio" target="_blank">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
   </a> 
-  
- <a href="https://www.qt.io/" target="_blank"> 
-    <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"/>
-  </a>
-
- <a href="https://www.rstudio.com/" target="_blank"> 
-    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
-
- <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  </a>
-
- <a href="https://netbeans.apache.org/" target="_blank"> 
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
-  </a>
 
  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   </a>
-
- <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
-  </a>
-  
+ 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
@@ -264,21 +193,13 @@ const Juhi_Pathak= {
 
 ### 🥅 Others:
 
-<a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
-<a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
-<a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
-<a href="https://nginx.org" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
-<a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white"></a>
 <a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
-<a href="https://kafka.apache.org" target="_blank"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka"></a>
 <a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
 <a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-<a href="https://www.sketch.com" target="_blank"><img alt="Sketch" src="https://img.shields.io/badge/Sketch-FFB387?logo=sketch&logoColor=black"></a>
 <a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
@@ -290,17 +211,14 @@ const Juhi_Pathak= {
 <div align="center">
 <table border="0">
   <tr>
-    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
-    <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
-    </tr>
+    <td> <a href="https://www.linkedin.com/in/harpreet-singh-152296249/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Harpreet Singh-%23FC5531?style=for-the-badge"> </a> </td>
+  </tr>
 </table>
 </div>
 
 ------------------------
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+<!--## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
 <p align="center">
@@ -311,10 +229,10 @@ const Juhi_Pathak= {
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuhiPathak23&theme=tokyonight&hide_border=true" align="left" width="450" alt="Juhi Pathak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juhipathak23&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Juhi Pathak"/>
-</p>
+</p>-->
 
 ----------------------
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
 
-<p><a href="https://www.buymeacoffee.com/juhipathak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="juhipathak" /></a><a href="https://ko-fi.com/juhipathak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="juhipathak" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Harpreet Singh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="juhipathak" /></a><a href="https://ko-fi.com/juhipathak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="Harpreet Singh" /></a></p><br><br>
