@@ -1,16 +1,16 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Harpreet+Singh;I'm+Software+Developer;I'm+Ai+Developer;I'm+Mern+Developer;></p>
-<h3 align="center">AI Intern @MyMobiForce | CSE (Ai-Ds), Pre-Final Year, Batch of 2026 | Co-founder @Upcomingfest | Building ClothBuddy </h3>
+<h3 align="center"> CSE (Ai-Ds), Pre-Final Year, Batch of 2026 | Co-founder @Upcomingfest | Building ClothBuddy </h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="HarpreetSingh" width="150"/> </p>
 
-- 🔭 I am working on: **MymobiForce**, as an Data Anyltics and Integration of Ai modules to thier app!
+<!--- 🔭 I am working on: **MymobiForce**, as an Data Anyltics and Integration of Ai modules to thier app!-->
 
-- 🌱 I am learning: **AI/ML**
+- 🌱 I am learning: **AI/ML, Data Science **
 
-- 💬 Ask me about: **Full Stack Development, Graphic Design, Ml Enginner**
+- 💬 Ask me about: **Full Stack Development, Graphic Design, Ml Enginner,Data Scientist **
 
 - 📫 Reach out at: **workspace.harpreetsingh@gmail.com**
 
