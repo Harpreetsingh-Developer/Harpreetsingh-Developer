@@ -1,3 +1,6 @@
+![logo](https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/a1720865-4800-42f7-a153-501b82da1b82)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Harpreet+Singh;I'm+Software+Developer;I'm+Ai+Developer;I'm+Mern+Developer;></p>
 <h3 align="center"> CSE (Ai-Ds), Pre-Final Year, Batch of 2026 | Co-founder @Upcomingfest | Building ClothBuddy </h3>
